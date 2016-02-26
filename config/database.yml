@@ -1,5 +1,6 @@
 default: &default
   adapter: postgresql
+  host: 172.17.0.2
   encoding: unicode
   pool: 5
 
